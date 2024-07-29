@@ -1,8 +1,20 @@
-# React + Vite
+# ToDoList whit vanilla js
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Add Your Note**
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![1](https://github.com/user-attachments/assets/21ecd416-ef1d-4c2a-af0b-8990d1ba2e43)
+
+- [Demo Project](https://to-do-list-whit-react.vercel.app/)
+
+- Developed by Niloofar Yoosefi
+
+- Created - 2024-03
+
+- Technologies Used - Html , Tailwind , React 
+
+
+- Role - Frontend
+
+- How to reach me : with my [instagram](https://github.com/niloufar-yousefi) and [linkedin](https://www.linkedin.com/in/niloofar-yoosefikhorram-242742143/)
+
