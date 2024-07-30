@@ -13,7 +13,7 @@ export default function App() {
   function myadd(_valueInp,Inp) {    
    flag++    
    setDataBase( (x)=>{
-    return [...x,{ id: flag, text: _valueInp , editing: false}]
+    return [...x,{ id: flag, text: _valueInp }]
    }   
    )
    Inp.value = ''
