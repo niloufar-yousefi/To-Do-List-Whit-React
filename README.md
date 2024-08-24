@@ -2,7 +2,6 @@
 
 **Add Your Note**
 
-
 ![1](https://github.com/user-attachments/assets/21ecd416-ef1d-4c2a-af0b-8990d1ba2e43)
 
 - [Demo Project](https://to-do-list-whit-react.vercel.app/)
